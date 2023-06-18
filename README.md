@@ -1,16 +1,21 @@
 ### Hi there 👋
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omerfdev&layout=compact)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=omerfdev&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark-blue)"
+    media="(prefers-color-scheme: green)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=omerfdev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=omerfdev&show_icons=true" />
+
 </picture>
+
+
+
+
 
 
 <!--
