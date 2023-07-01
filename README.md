@@ -13,7 +13,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfdev&amp;theme=radical&amp;hide_border=false" alt="">
 </td>
 <td width="20%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EfrunEvdi&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omerfdev&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </picture>
 
