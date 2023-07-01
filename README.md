@@ -8,17 +8,18 @@
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer"> 
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net">  
 </p>
-<td width="20%" align="center">
+<table border="0" align="center">
+<td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=omerfdev&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
 <br>
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfdev&amp;theme=radical&amp;hide_border=false" alt="">
 </td>
-<td width="20%" align="center">
+<td width="50%" align="center">
 <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omerfdev&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </picture>
-
+</table>
 <img alt="omerfdev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=omerfdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 + [![](https://visitcount.itsvg.in/api?id=omerfdev&icon=0&color=12)](https://visitcount.itsvg.in)
