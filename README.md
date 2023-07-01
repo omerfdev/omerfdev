@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" witdh="320" height="320">
@@ -19,7 +21,7 @@
 
 <img alt="omerfdev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=omerfdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
-
++ [![](https://visitcount.itsvg.in/api?id=omerfdev&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 
