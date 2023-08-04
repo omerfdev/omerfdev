@@ -14,7 +14,7 @@
 </p>
 <h3 align="left">Social Media:</h3>
 <p align="left" witdh="320" height="320">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor="alt="Medium"> 
+ <a href="https://medium.com/@omerfdev" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor="alt="Medium"></a>  
 </p>
  
 <table border="0" align="center">
