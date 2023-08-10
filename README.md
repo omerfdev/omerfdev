@@ -19,8 +19,8 @@
  
 <table border="0" align="center">
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omerfdev&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
-<br>
+<!--<img src="https://github-readme-stats.vercel.app/api?username=omerfdev&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""> -->
+
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfdev&amp;theme=radical&amp;hide_border=false" alt="">
 </td>
