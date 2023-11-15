@@ -24,30 +24,31 @@
     <img src="https://img.shields.io/badge/-signalR-%23323330?style=for-the-badge&logo=signalR&logoColor=white" alt="">   
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="">
    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="">
+  
 </p>
 <h3 align="left">IDE:</h3>
 <p align="left" witdh="320" height="320">
    <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=whitE" alt="">  
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="">  
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="">    
+    <img align="right" class="Hero-gopherLadder" src="https://go.dev/images/gophers/ladder.svg" alt="Go Gopher climbing a ladder.">
 </p>
 <h3 align="left">Social Media:</h3>
 <p align="left" witdh="320" height="320">
  <a href="https://medium.com/@omerfdev" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor="alt="Medium"></a>  
 </p> 
-<table border="0" align="center">
-<td width="50%" align="center">
-<!--<img src="https://github-readme-stats.vercel.app/api?username=omerfdev&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""> -->
-
+<table border="2px solid white" align="left">
+<td width="10%" align="left">
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omerfdev&amp;theme=radical&amp;hide_border=false" alt="">
 </td>
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omerfdev&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<td width="10%" align="center">
+<img  align="left"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=omerfdev&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </picture>
+   <img align="left" alt="omerfdev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=omerfdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 </table>
-<img alt="omerfdev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=omerfdev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 
 + [![](https://visitcount.itsvg.in/api?id=omerdev&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
