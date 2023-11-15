@@ -27,8 +27,9 @@
 </p>
 <h3 align="left">IDE:</h3>
 <p align="left" witdh="320" height="320">
+   <img src="https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=whitE" alt="">  
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="">  
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt=""> 
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="">    
 </p>
 <h3 align="left">Social Media:</h3>
 <p align="left" witdh="320" height="320">
